@@ -17,14 +17,13 @@
     "logo": { "text": "Swiftly Chi" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Github", "url": "https://github.com/chi-moua" }
       ],
       "ctaButton": {
-        "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "openNewTab": false,
+        "label": "About",
+        "url": "/#about"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
